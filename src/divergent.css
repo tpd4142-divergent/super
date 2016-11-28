@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  margin: 25px 0;
+  font-size: 40pt;
+}
+
+.CheckButton {
+  float: right;
+}
+
+.Input {
+  margin-bottom: 15px;
+}
+
+.TableHeader {
+  margin-top: 50px;
+}
+
+.FoodButton {
+  height: 200px;
+  padding-top: 75px;
+  text-align: center;
+}
+
+.ButtonToShow {
+  width: 300px;
+  margin: 10px;
+  height: 100px;
+  font-size: 25pt;
+}
